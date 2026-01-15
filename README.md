@@ -51,6 +51,7 @@ Turkcell Campaign Optimizer, kullanıcı davranışlarına ve segmentlerine gör
 1. **Projeyi klonlayın veya indirin**
 ```bash
 git clone https://github.com/arda-sengun/cellMind.git
+cd cellMind
 ```
 
 2. **NuGet paketlerini geri yükleyin**
@@ -73,7 +74,7 @@ API şu adreste çalışacaktır: `http://localhost:5000`
 ## 📁 Proje Yapısı
 
 ```
-case4/
+cellMind/
 ├── Models/                 # Entity modelleri
 │   ├── User.cs
 │   ├── UserMetric.cs
