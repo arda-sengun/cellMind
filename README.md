@@ -287,17 +287,10 @@ dotnet ef database update
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📄 Lisans
 
 Bu proje Turkcell için geliştirilmiştir.
 
-## 📞 İletişim
 
-Sorularınız için lütfen proje dokümantasyonunu kontrol edin:
-- [BACKEND_TODO.md](./BACKEND_TODO.md) - Geliştirme adımları
-- [API_DOCUMENTATION.md](./API_DOCUMENTATION.md) - API kullanım kılavuzu
-
----
 
 **Geliştirme Durumu:** ✅ Production Ready
 
