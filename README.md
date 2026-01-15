@@ -2,6 +2,16 @@
 
 Turkcell Campaign Optimizer, kullanıcı davranışlarına ve segmentlerine göre akıllı kampanya ataması yapan bir backend sistemidir.
 
+## 👥 Ekip ve Katkılar
+
+**Takım Adı:** cellMind  
+**Etkinlik:** Turkcell Geleceği Yazanlar – Code Night
+
+### Ekip Üyeleri
+- **Arda Şengün** – Backend geliştirme, kampanya skorlama ve karar motoru, API tasarımı, veritabanı modelleme
+- **Tuğçe Özkaraaslan** – Backend geliştirme, iş kuralları, veri modelleri ve sistem mimarisi
+- **Beyza Türkoğlu** – Frontend geliştirme, kullanıcı arayüzü tasarımı ve API entegrasyonu
+
 ## 📋 Özellikler
 
 ### ✅ Tamamlanan Özellikler
