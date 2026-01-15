@@ -50,7 +50,7 @@ Turkcell Campaign Optimizer, kullanıcı davranışlarına ve segmentlerine gör
 
 1. **Projeyi klonlayın veya indirin**
 ```bash
-cd c:\Users\ozkar\OneDrive\Masaüstü\case4
+git clone https://github.com/arda-sengun/cellMind.git
 ```
 
 2. **NuGet paketlerini geri yükleyin**
